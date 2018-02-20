@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/price_match.py" line="79" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5342d506-bcd0-40ef-8008-b129c0166d42" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" afterPath="$PROJECT_DIR$/Pipfile" />
-      <change beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
-    </list>
+    <list default="true" id="5342d506-bcd0-40ef-8008-b129c0166d42" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +22,8 @@
       <file leaf-file-name="price_match.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/price_match.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="84" column="41" lean-forward="false" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
+            <state relative-caret-position="290">
+              <caret line="72" column="13" lean-forward="true" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
                 <marker date="1519097298078" expanded="true" signature="1398:1521" ph="CREATE TABLE... Price" />
@@ -318,8 +314,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/price_match.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="84" column="41" lean-forward="false" selection-start-line="84" selection-start-column="41" selection-end-line="84" selection-end-column="41" />
+        <state relative-caret-position="290">
+          <caret line="72" column="13" lean-forward="true" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
             <marker date="1519097298078" expanded="true" signature="1398:1521" ph="CREATE TABLE... Price" />
